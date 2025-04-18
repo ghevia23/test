@@ -1,0 +1,1737 @@
+fileFormatVersion: 2
+guid: e8925d22d6e9a004286f5bcf2d5d80e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3049728269330759656
+    second: MobialMediaProj_0
+  - first:
+      213: 5661621326107044394
+    second: MobialMediaProj_1
+  - first:
+      213: 1064885648125453544
+    second: MobialMediaProj_2
+  - first:
+      213: -5148744145329771669
+    second: MobialMediaProj_3
+  - first:
+      213: -2271658357653841773
+    second: MobialMediaProj_4
+  - first:
+      213: 4696818867741850838
+    second: MobialMediaProj_5
+  - first:
+      213: -558576265732818885
+    second: MobialMediaProj_6
+  - first:
+      213: -3275477797945480629
+    second: MobialMediaProj_7
+  - first:
+      213: -3678034708115650624
+    second: MobialMediaProj_8
+  - first:
+      213: -2442534215416440402
+    second: MobialMediaProj_9
+  - first:
+      213: -1684274378284207180
+    second: MobialMediaProj_10
+  - first:
+      213: -452733806005554806
+    second: MobialMediaProj_11
+  - first:
+      213: -478937141301531581
+    second: MobialMediaProj_12
+  - first:
+      213: 5653175253290672979
+    second: MobialMediaProj_13
+  - first:
+      213: 4610529639534735312
+    second: MobialMediaProj_14
+  - first:
+      213: -6735908333024702317
+    second: MobialMediaProj_15
+  - first:
+      213: -265225900211264789
+    second: MobialMediaProj_16
+  - first:
+      213: 8532371208364541141
+    second: MobialMediaProj_17
+  - first:
+      213: 1241911324875893283
+    second: MobialMediaProj_18
+  - first:
+      213: 1428641668753690079
+    second: MobialMediaProj_19
+  - first:
+      213: -149948446450511014
+    second: MobialMediaProj_20
+  - first:
+      213: -4032464871030022107
+    second: MobialMediaProj_21
+  - first:
+      213: 5673514092483913753
+    second: MobialMediaProj_22
+  - first:
+      213: 7931617089788434117
+    second: MobialMediaProj_23
+  - first:
+      213: -2237404257173028926
+    second: MobialMediaProj_24
+  - first:
+      213: -2577600916902599318
+    second: MobialMediaProj_25
+  - first:
+      213: 2030229662703029893
+    second: MobialMediaProj_26
+  - first:
+      213: -6418275601899167956
+    second: MobialMediaProj_27
+  - first:
+      213: 7664846151699247697
+    second: MobialMediaProj_28
+  - first:
+      213: -8777974506929083906
+    second: MobialMediaProj_29
+  - first:
+      213: -6279308565455436664
+    second: MobialMediaProj_30
+  - first:
+      213: -6907429102469506588
+    second: MobialMediaProj_31
+  - first:
+      213: 1566086566588563175
+    second: MobialMediaProj_32
+  - first:
+      213: -9181656138047861850
+    second: MobialMediaProj_33
+  - first:
+      213: 7127920189706325995
+    second: MobialMediaProj_34
+  - first:
+      213: 7391797147496919248
+    second: MobialMediaProj_35
+  - first:
+      213: -3431767052919428540
+    second: MobialMediaProj_36
+  - first:
+      213: 7417376839952929362
+    second: MobialMediaProj_37
+  - first:
+      213: 8120190309640607606
+    second: MobialMediaProj_38
+  - first:
+      213: -9213050289714929851
+    second: MobialMediaProj_39
+  - first:
+      213: 2275501981607122784
+    second: MobialMediaProj_40
+  - first:
+      213: 6446022828416014638
+    second: MobialMediaProj_41
+  - first:
+      213: 1793901245045057942
+    second: MobialMediaProj_42
+  - first:
+      213: -8589964912413577674
+    second: MobialMediaProj_43
+  - first:
+      213: 7706968230374146321
+    second: MobialMediaProj_44
+  - first:
+      213: 7603534656389538029
+    second: MobialMediaProj_45
+  - first:
+      213: 7935385935967155098
+    second: MobialMediaProj_46
+  - first:
+      213: 1945800438937269264
+    second: MobialMediaProj_47
+  - first:
+      213: -8025166331534233216
+    second: MobialMediaProj_48
+  - first:
+      213: -6794105839127225608
+    second: MobialMediaProj_49
+  - first:
+      213: -3026437962408525363
+    second: MobialMediaProj_50
+  - first:
+      213: -972497711867483161
+    second: MobialMediaProj_51
+  - first:
+      213: -6777025882677058494
+    second: MobialMediaProj_52
+  - first:
+      213: -7103263055866702426
+    second: MobialMediaProj_53
+  - first:
+      213: -1171459204923071934
+    second: MobialMediaProj_54
+  - first:
+      213: 1451233804901872864
+    second: MobialMediaProj_55
+  - first:
+      213: -1415553309130671462
+    second: MobialMediaProj_56
+  - first:
+      213: -8608993821710326178
+    second: MobialMediaProj_57
+  - first:
+      213: -3599167548625429203
+    second: MobialMediaProj_58
+  - first:
+      213: 8409896254041769675
+    second: MobialMediaProj_59
+  - first:
+      213: 7898426219616484901
+    second: MobialMediaProj_60
+  - first:
+      213: 1608785288799029814
+    second: MobialMediaProj_61
+  - first:
+      213: 9055003700012277718
+    second: MobialMediaProj_62
+  - first:
+      213: -721530774678147042
+    second: MobialMediaProj_63
+  - first:
+      213: -3045293393440700456
+    second: MobialMediaProj_64
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 220
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MobialMediaProj_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2554
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810c2151c403da5d0800000000000000
+      internalID: -3049728269330759656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_1
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 2554
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ae26b799e129e40800000000000000
+      internalID: 5661621326107044394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_2
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 2554
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4edeedadb37ce00800000000000000
+      internalID: 1064885648125453544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_3
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 2554
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b2f32aa7cfb88b0800000000000000
+      internalID: -5148744145329771669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_4
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 2554
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398defc62c27970e0800000000000000
+      internalID: -2271658357653841773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_5
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 2554
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dcfa1a10e37e2140800000000000000
+      internalID: 4696818867741850838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_6
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 2659
+        width: 163
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38f70588d98f38f0800000000000000
+      internalID: -558576265732818885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_7
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 2694
+        width: 219
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ae7c70c4a2b82d0800000000000000
+      internalID: -3275477797945480629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_8
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 2694
+        width: 233
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c785378beef4fcc0800000000000000
+      internalID: -3678034708115650624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_9
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 2694
+        width: 219
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea99d5a72106a1ed0800000000000000
+      internalID: -2442534215416440402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_10
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 2582
+        width: 86
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3f31a606140a8e0800000000000000
+      internalID: -1684274378284207180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_11
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 2582
+        width: 65
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a817a3b800197b9f0800000000000000
+      internalID: -452733806005554806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_12
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2323
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c2bfe15397a59f0800000000000000
+      internalID: -478937141301531581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_13
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 2323
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3536b69e0fc147e40800000000000000
+      internalID: 5653175253290672979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_14
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 2323
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfa0ee8744ebff30800000000000000
+      internalID: 4610529639534735312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_15
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 2323
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390187a3f0f3582a0800000000000000
+      internalID: -6735908333024702317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_16
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 2323
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2aca0f27ab15cf0800000000000000
+      internalID: -265225900211264789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_17
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 2323
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4c6565862196670800000000000000
+      internalID: 8532371208364541141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_18
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 2512
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a23c125c72c3110800000000000000
+      internalID: 1241911324875893283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_19
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 2477
+        width: 121
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd8269470e83d310800000000000000
+      internalID: 1428641668753690079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_20
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 2449
+        width: 72
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5312b2bea64bedf0800000000000000
+      internalID: -149948446450511014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_21
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 2400
+        width: 114
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520a301909ec908c0800000000000000
+      internalID: -4032464871030022107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_22
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 2386
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9182daee10f5cbe40800000000000000
+      internalID: 5673514092483913753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_23
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2092
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6d14b38b3c21e60800000000000000
+      internalID: 7931617089788434117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_24
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 2092
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf3140bea423f0e0800000000000000
+      internalID: -2237404257173028926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_25
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 2092
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65ac4f6f958a3cd0800000000000000
+      internalID: -2577600916902599318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_26
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 2092
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e00e12f13dc2c10800000000000000
+      internalID: 2030229662703029893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_27
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 2092
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f5e367854bde6a0800000000000000
+      internalID: -6418275601899167956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_28
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 2092
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152bd0207f00f5a60800000000000000
+      internalID: 7664846151699247697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_29
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 2092
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9ae0391be5e2680800000000000000
+      internalID: -8777974506929083906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_30
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1861
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88406f0012a6bd8a0800000000000000
+      internalID: -6279308565455436664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_31
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1861
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e91c1414d1e320a0800000000000000
+      internalID: -6907429102469506588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_32
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1861
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eeb5015f6bdbb510800000000000000
+      internalID: 1566086566588563175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_33
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1861
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab4fd19364349080800000000000000
+      internalID: -9181656138047861850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_34
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1861
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befc7cea5a57be260800000000000000
+      internalID: 7127920189706325995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_35
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 1861
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0bc4c9750f49660800000000000000
+      internalID: 7391797147496919248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_36
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 1861
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a29d23c0aef50d0800000000000000
+      internalID: -3431767052919428540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_37
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1630
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2529a9edfe0dfe660800000000000000
+      internalID: 7417376839952929362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_38
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1630
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67792b26016b0b070800000000000000
+      internalID: 8120190309640607606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_39
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1630
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f5bb7039ba42080800000000000000
+      internalID: -9213050289714929851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_40
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1630
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067d3630ff4349f10800000000000000
+      internalID: 2275501981607122784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_41
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1630
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e299bc52c9fd47950800000000000000
+      internalID: 6446022828416014638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_42
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 1630
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699aa098da735e810800000000000000
+      internalID: 1793901245045057942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_43
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 1630
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ee48a7c605ac880800000000000000
+      internalID: -8589964912413577674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_44
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1399
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1110ca2b5c6a4fa60800000000000000
+      internalID: 7706968230374146321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_45
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1399
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de068771c7e258960800000000000000
+      internalID: 7603534656389538029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_46
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1399
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93f3fc1777202e60800000000000000
+      internalID: 7935385935967155098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_47
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1399
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014b7ae903fd00b10800000000000000
+      internalID: 1945800438937269264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_48
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1399
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0813a799db1e0a090800000000000000
+      internalID: -8025166331534233216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_49
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 1399
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa1a6c6cbc76b1a0800000000000000
+      internalID: -6794105839127225608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_50
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 1399
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc102eb35beeff5d0800000000000000
+      internalID: -3026437962408525363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_51
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1161
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb224bcb7ef082f0800000000000000
+      internalID: -972497711867483161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_52
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1161
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244e76dadda23f1a0800000000000000
+      internalID: -6777025882677058494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_53
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1161
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5d8e8a2e32c6d90800000000000000
+      internalID: -7103263055866702426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_54
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1168
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242e2bd4f042ebfe0800000000000000
+      internalID: -1171459204923071934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_55
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1168
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4f633e471d32410800000000000000
+      internalID: 1451233804901872864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_56
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 1168
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a33a8e3c1fa5ce0800000000000000
+      internalID: -1415553309130671462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_57
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 930
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e566c674bb5b68880800000000000000
+      internalID: -8608993821710326178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_58
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 930
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d51190f203d0ec0800000000000000
+      internalID: -3599167548625429203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_59
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 930
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc64c04e514f5b470800000000000000
+      internalID: 8409896254041769675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_60
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 937
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e3fd09cc8dc9d60800000000000000
+      internalID: 7898426219616484901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_61
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 937
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a8dba42bd835610800000000000000
+      internalID: 1608785288799029814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_62
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 699
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df5413c3e5d9ad70800000000000000
+      internalID: 9055003700012277718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_63
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 699
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10fbc0559b9cf5f0800000000000000
+      internalID: -721530774678147042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMediaProj_64
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 699
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d78f171bc1fcb5d0800000000000000
+      internalID: -3045293393440700456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MobialMediaProj_0: -3049728269330759656
+      MobialMediaProj_1: 5661621326107044394
+      MobialMediaProj_10: -1684274378284207180
+      MobialMediaProj_11: -452733806005554806
+      MobialMediaProj_12: -478937141301531581
+      MobialMediaProj_13: 5653175253290672979
+      MobialMediaProj_14: 4610529639534735312
+      MobialMediaProj_15: -6735908333024702317
+      MobialMediaProj_16: -265225900211264789
+      MobialMediaProj_17: 8532371208364541141
+      MobialMediaProj_18: 1241911324875893283
+      MobialMediaProj_19: 1428641668753690079
+      MobialMediaProj_2: 1064885648125453544
+      MobialMediaProj_20: -149948446450511014
+      MobialMediaProj_21: -4032464871030022107
+      MobialMediaProj_22: 5673514092483913753
+      MobialMediaProj_23: 7931617089788434117
+      MobialMediaProj_24: -2237404257173028926
+      MobialMediaProj_25: -2577600916902599318
+      MobialMediaProj_26: 2030229662703029893
+      MobialMediaProj_27: -6418275601899167956
+      MobialMediaProj_28: 7664846151699247697
+      MobialMediaProj_29: -8777974506929083906
+      MobialMediaProj_3: -5148744145329771669
+      MobialMediaProj_30: -6279308565455436664
+      MobialMediaProj_31: -6907429102469506588
+      MobialMediaProj_32: 1566086566588563175
+      MobialMediaProj_33: -9181656138047861850
+      MobialMediaProj_34: 7127920189706325995
+      MobialMediaProj_35: 7391797147496919248
+      MobialMediaProj_36: -3431767052919428540
+      MobialMediaProj_37: 7417376839952929362
+      MobialMediaProj_38: 8120190309640607606
+      MobialMediaProj_39: -9213050289714929851
+      MobialMediaProj_4: -2271658357653841773
+      MobialMediaProj_40: 2275501981607122784
+      MobialMediaProj_41: 6446022828416014638
+      MobialMediaProj_42: 1793901245045057942
+      MobialMediaProj_43: -8589964912413577674
+      MobialMediaProj_44: 7706968230374146321
+      MobialMediaProj_45: 7603534656389538029
+      MobialMediaProj_46: 7935385935967155098
+      MobialMediaProj_47: 1945800438937269264
+      MobialMediaProj_48: -8025166331534233216
+      MobialMediaProj_49: -6794105839127225608
+      MobialMediaProj_5: 4696818867741850838
+      MobialMediaProj_50: -3026437962408525363
+      MobialMediaProj_51: -972497711867483161
+      MobialMediaProj_52: -6777025882677058494
+      MobialMediaProj_53: -7103263055866702426
+      MobialMediaProj_54: -1171459204923071934
+      MobialMediaProj_55: 1451233804901872864
+      MobialMediaProj_56: -1415553309130671462
+      MobialMediaProj_57: -8608993821710326178
+      MobialMediaProj_58: -3599167548625429203
+      MobialMediaProj_59: 8409896254041769675
+      MobialMediaProj_6: -558576265732818885
+      MobialMediaProj_60: 7898426219616484901
+      MobialMediaProj_61: 1608785288799029814
+      MobialMediaProj_62: 9055003700012277718
+      MobialMediaProj_63: -721530774678147042
+      MobialMediaProj_64: -3045293393440700456
+      MobialMediaProj_7: -3275477797945480629
+      MobialMediaProj_8: -3678034708115650624
+      MobialMediaProj_9: -2442534215416440402
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

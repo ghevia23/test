@@ -1,0 +1,1737 @@
+fileFormatVersion: 2
+guid: 29ec3aece04877d4cadab2ca9b3a9e14
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8307463389803718608
+    second: MobialMedia_Map01_0
+  - first:
+      213: -3781049523888215851
+    second: MobialMedia_Map01_1
+  - first:
+      213: -1873534410895572064
+    second: MobialMedia_Map01_2
+  - first:
+      213: -2738520750033871278
+    second: MobialMedia_Map01_3
+  - first:
+      213: 6860394732368678791
+    second: MobialMedia_Map01_4
+  - first:
+      213: 1866147540576756740
+    second: MobialMedia_Map01_5
+  - first:
+      213: 5744748384016998858
+    second: MobialMedia_Map01_6
+  - first:
+      213: 7316000670814744435
+    second: MobialMedia_Map01_7
+  - first:
+      213: -7467608519029036702
+    second: MobialMedia_Map01_8
+  - first:
+      213: -2991196231476088225
+    second: MobialMedia_Map01_9
+  - first:
+      213: -9188671912206240566
+    second: MobialMedia_Map01_10
+  - first:
+      213: 2198789011377328317
+    second: MobialMedia_Map01_11
+  - first:
+      213: -5110531793530841537
+    second: MobialMedia_Map01_12
+  - first:
+      213: 4099109466754874300
+    second: MobialMedia_Map01_13
+  - first:
+      213: -6187337399995573649
+    second: MobialMedia_Map01_14
+  - first:
+      213: 2170252839262545888
+    second: MobialMedia_Map01_15
+  - first:
+      213: 2113014520437277721
+    second: MobialMedia_Map01_16
+  - first:
+      213: 2037880399056697914
+    second: MobialMedia_Map01_17
+  - first:
+      213: -5666355271239509818
+    second: MobialMedia_Map01_18
+  - first:
+      213: 8929675251905199262
+    second: MobialMedia_Map01_19
+  - first:
+      213: 1329265084832696583
+    second: MobialMedia_Map01_20
+  - first:
+      213: 7465048710780243989
+    second: MobialMedia_Map01_21
+  - first:
+      213: -378651421534258058
+    second: MobialMedia_Map01_22
+  - first:
+      213: -3680144086918335599
+    second: MobialMedia_Map01_23
+  - first:
+      213: 3431166700789596013
+    second: MobialMedia_Map01_24
+  - first:
+      213: -5591537362892689120
+    second: MobialMedia_Map01_25
+  - first:
+      213: 4493342593632996713
+    second: MobialMedia_Map01_26
+  - first:
+      213: -8307521087418345840
+    second: MobialMedia_Map01_27
+  - first:
+      213: 4153014961309335150
+    second: MobialMedia_Map01_28
+  - first:
+      213: -265386359365411697
+    second: MobialMedia_Map01_29
+  - first:
+      213: -3253274273973438490
+    second: MobialMedia_Map01_30
+  - first:
+      213: -4432700442984915962
+    second: MobialMedia_Map01_31
+  - first:
+      213: 3952803406256034504
+    second: MobialMedia_Map01_32
+  - first:
+      213: 7689095346212774327
+    second: MobialMedia_Map01_33
+  - first:
+      213: 8506062218127426867
+    second: MobialMedia_Map01_34
+  - first:
+      213: 5804091259945763907
+    second: MobialMedia_Map01_35
+  - first:
+      213: -1404624386709050143
+    second: MobialMedia_Map01_36
+  - first:
+      213: -8729520761713882339
+    second: MobialMedia_Map01_37
+  - first:
+      213: -8969076570929734478
+    second: MobialMedia_Map01_38
+  - first:
+      213: -6290550647599397906
+    second: MobialMedia_Map01_39
+  - first:
+      213: -8862295760235741710
+    second: MobialMedia_Map01_40
+  - first:
+      213: 247834692404575776
+    second: MobialMedia_Map01_41
+  - first:
+      213: 4942784972246988773
+    second: MobialMedia_Map01_42
+  - first:
+      213: -7580664377782480468
+    second: MobialMedia_Map01_43
+  - first:
+      213: -1948413299055001000
+    second: MobialMedia_Map01_44
+  - first:
+      213: -9188384169655053233
+    second: MobialMedia_Map01_45
+  - first:
+      213: 3612695444276474096
+    second: MobialMedia_Map01_46
+  - first:
+      213: 3824196472392710673
+    second: MobialMedia_Map01_47
+  - first:
+      213: -4615460290501137787
+    second: MobialMedia_Map01_48
+  - first:
+      213: 7503788717679626699
+    second: MobialMedia_Map01_49
+  - first:
+      213: 2830712540913695211
+    second: MobialMedia_Map01_50
+  - first:
+      213: 1691411496100584156
+    second: MobialMedia_Map01_51
+  - first:
+      213: 861150006683641996
+    second: MobialMedia_Map01_52
+  - first:
+      213: -1673761954156314875
+    second: MobialMedia_Map01_53
+  - first:
+      213: -6531131407034656055
+    second: MobialMedia_Map01_54
+  - first:
+      213: -2816393802282569381
+    second: MobialMedia_Map01_55
+  - first:
+      213: -6662412909926256146
+    second: MobialMedia_Map01_56
+  - first:
+      213: 649550263109332313
+    second: MobialMedia_Map01_57
+  - first:
+      213: -9005224980220512788
+    second: MobialMedia_Map01_58
+  - first:
+      213: 449204148968216107
+    second: MobialMedia_Map01_59
+  - first:
+      213: -2827100043961301932
+    second: MobialMedia_Map01_60
+  - first:
+      213: -7748946312732041968
+    second: MobialMedia_Map01_61
+  - first:
+      213: -5535305776509685309
+    second: MobialMedia_Map01_62
+  - first:
+      213: 2511904142072320365
+    second: MobialMedia_Map01_63
+  - first:
+      213: 4968242242548951536
+    second: MobialMedia_Map01_64
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MobialMedia_Map01_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2553
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743abab642920eb42ae289b628c78477
+      internalID: -1925489185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_1
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 2553
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818bcec8bc8595042abc9423a25e2a09
+      internalID: -544114085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_2
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 2553
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b570d358ca52a478ec619554f813fb
+      internalID: 2054257575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_3
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 2553
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079ee2fc4f045e5428420682c8bd67f1
+      internalID: -2146147342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_4
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 2553
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f4da597f9159847899e02eb7670db4
+      internalID: -1055606831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_5
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 2553
+        width: 228
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930abb0699f6b0c48910c2f8dd905cd5
+      internalID: 1942420377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_6
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 2659
+        width: 164
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a977e0bfdd3503442ae71f7239ae7970
+      internalID: 260545918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_7
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 2694
+        width: 220
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaed933bb295dfe4f8264cbc5f3bb6d7
+      internalID: -745519545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_8
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 2694
+        width: 234
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d71748aa858c44da10f355bf1df8de
+      internalID: -569392227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_9
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 2694
+        width: 220
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8672cf427450ad6448dfd1e50c2bfed0
+      internalID: -459549861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_10
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 2582
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b3e7e912f5c2141aaec8a3ab5ca272
+      internalID: 2066197031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_11
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 2582
+        width: 67
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5baf893215100244596f3661dceddcbe
+      internalID: -1779926724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_12
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2322
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1cbef9bbe75744da4aa564791fdbe4
+      internalID: -841792387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_13
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 2322
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02508c2c08925f4d97b5db792e1f900
+      internalID: -1613444945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_14
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 2322
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e432560ba005c459ba05794c04de8c
+      internalID: 878751769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_15
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 2322
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554d33af89ae4ea4a92af3f7424c2075
+      internalID: 1520141127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_16
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 2322
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b324b7fa92e3e444a825ecc5a31022b0
+      internalID: -46082050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_17
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 2322
+        width: 228
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f450751cb143354fa8e955e19eb467d
+      internalID: -2123386834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_18
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 2512
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405f42a47f33695498f10733fd7362ca
+      internalID: -1958199863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_19
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 2477
+        width: 123
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b968e7ed8f7bf54f8dd74eada71572e
+      internalID: -1209070966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_20
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 2448
+        width: 72
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d151a52fa81dd90419a1832b2c63c22a
+      internalID: 2143609292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_21
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 2399
+        width: 116
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940685a92bd462249bc1c59cdff2ab80
+      internalID: 1328915591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_22
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 2385
+        width: 86
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bdea7164e1f754ba197bc39ac0f6fe
+      internalID: -791751490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_23
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2091
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f3304568fca5c40bfd6af753196113
+      internalID: 180973084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_24
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 2091
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23193c79092c7c6418c69188f8534cc0
+      internalID: -1144125768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_25
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 2091
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab973b6015004334e862baea02e01fbd
+      internalID: -1005839723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_26
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 2091
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eab2e46c23a7724796ca47f603d9a1f
+      internalID: -1428336876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_27
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 2091
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88dc4303d69b10e448dd9c1d472c5c93
+      internalID: 1098883317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_28
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 2091
+        width: 228
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df36f0b15487fce40a1ad9150b6d66dd
+      internalID: 1349136876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_29
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 2091
+        width: 228
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2be4755eab0f65418a38ef7299e77e5
+      internalID: -804730784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_30
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1860
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3499def4a8624114699a3530648a3e01
+      internalID: 1757984981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_31
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1860
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cd802321318c5428a990f42a89b5cf
+      internalID: -1787397493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_32
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1860
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351cc71e7467ee849b19935b09f529f2
+      internalID: 1013846501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_33
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1853
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6b8720123c21f478d601d5059ab9d4
+      internalID: -449273296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_34
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1853
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd38b84f71243394bbca5e507baa480c
+      internalID: -500477373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_35
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1853
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0504cc22308bbf9438d99846f05b5017
+      internalID: 1662083947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_36
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 1853
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe0bb4ad1dd53044a6d4d44f74cc7bc
+      internalID: -602558478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_37
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1629
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c583e543c2c8a4b9b591c4e7035fa7
+      internalID: -386787039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_38
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1629
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268508ea103d134488c8ac291578902e
+      internalID: 117060506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_39
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1629
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bd6ddf2a62339439e863ae25dd9333
+      internalID: -850506862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_40
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1622
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267892ab58fb950408d635bf81ce434a
+      internalID: 21962319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_41
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1622
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4a4f2cfa980c4469cae78b15b78895
+      internalID: -1195600121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_42
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1622
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe5f401a758c5f4090ed82af3cd0f08
+      internalID: -244044941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_43
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 1622
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3135fed53ce973499c7b249ce27c18a
+      internalID: -1605297632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_44
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1398
+        width: 227
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e0c7a177a3aba4ca7d51dace609c61
+      internalID: -629778569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_45
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1398
+        width: 227
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e5481abdd9cd142ae4600524aeabfc
+      internalID: 483008028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_46
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1398
+        width: 227
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfaeb432d110acd45a904c02ccc1ce4b
+      internalID: -1583943276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_47
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1391
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b832e2598ef37f43a42b32c50d73ebb
+      internalID: 1073866061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_48
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1391
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a30c629d1b4f34dbabd717a1bcfb49
+      internalID: -1910309061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_49
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1391
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e3ea51165148f4a87c780d82683dc8
+      internalID: 1863399472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_50
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 1391
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a488b4b1c5801b4297aba6545142583
+      internalID: -1942654966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_51
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1160
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933e543466e504b4e84776592ee569a0
+      internalID: 1376665207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_52
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1160
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78ec80b8edc8a7428b0393d7e2e83fb
+      internalID: -911799330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_53
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1160
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea72c9262305375468bd73dcf988e0f1
+      internalID: -669762187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_54
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1160
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1549c084a15f546bd616b8b937dee7
+      internalID: 495243593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_55
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1160
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3daa93a5127f142b1d83b92f43cb64
+      internalID: 1985310417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_56
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1160
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8605d061298c144adaa1e42abb74dd
+      internalID: -759422626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_57
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 929
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9abc88119ab9a84989a566f8d8c071f
+      internalID: -1112870322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_58
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 929
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315b0346526dbbf47a97fc50ad84129f
+      internalID: 892737651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_59
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 929
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15ea33c13a4c1349958d46df6fcdb47
+      internalID: 1015516844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_60
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 929
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c272373424f3f4eb27bdb0f40a035e
+      internalID: 1457074820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_61
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 929
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d240d6b96d937489b78c2333638c61
+      internalID: 1671815994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_62
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 698
+        width: 227
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcfe93850cbc2c41aefc83648525d4c
+      internalID: 1493026145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_63
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 698
+        width: 227
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0967695ef9f71e489116c6d0c54bf9d
+      internalID: 2040886842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobialMedia_Map01_64
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 698
+        width: 227
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc192ef2f6f20d43b265210d3af1a94
+      internalID: 1597600997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6f77c7e248bfbf1469486105e865fcb1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MobialMedia_Map01_0: -1925489185
+      MobialMedia_Map01_1: -544114085
+      MobialMedia_Map01_10: 2066197031
+      MobialMedia_Map01_11: -1779926724
+      MobialMedia_Map01_12: -841792387
+      MobialMedia_Map01_13: -1613444945
+      MobialMedia_Map01_14: 878751769
+      MobialMedia_Map01_15: 1520141127
+      MobialMedia_Map01_16: -46082050
+      MobialMedia_Map01_17: -2123386834
+      MobialMedia_Map01_18: -1958199863
+      MobialMedia_Map01_19: -1209070966
+      MobialMedia_Map01_2: 2054257575
+      MobialMedia_Map01_20: 2143609292
+      MobialMedia_Map01_21: 1328915591
+      MobialMedia_Map01_22: -791751490
+      MobialMedia_Map01_23: 180973084
+      MobialMedia_Map01_24: -1144125768
+      MobialMedia_Map01_25: -1005839723
+      MobialMedia_Map01_26: -1428336876
+      MobialMedia_Map01_27: 1098883317
+      MobialMedia_Map01_28: 1349136876
+      MobialMedia_Map01_29: -804730784
+      MobialMedia_Map01_3: -2146147342
+      MobialMedia_Map01_30: 1757984981
+      MobialMedia_Map01_31: -1787397493
+      MobialMedia_Map01_32: 1013846501
+      MobialMedia_Map01_33: -449273296
+      MobialMedia_Map01_34: -500477373
+      MobialMedia_Map01_35: 1662083947
+      MobialMedia_Map01_36: -602558478
+      MobialMedia_Map01_37: -386787039
+      MobialMedia_Map01_38: 117060506
+      MobialMedia_Map01_39: -850506862
+      MobialMedia_Map01_4: -1055606831
+      MobialMedia_Map01_40: 21962319
+      MobialMedia_Map01_41: -1195600121
+      MobialMedia_Map01_42: -244044941
+      MobialMedia_Map01_43: -1605297632
+      MobialMedia_Map01_44: -629778569
+      MobialMedia_Map01_45: 483008028
+      MobialMedia_Map01_46: -1583943276
+      MobialMedia_Map01_47: 1073866061
+      MobialMedia_Map01_48: -1910309061
+      MobialMedia_Map01_49: 1863399472
+      MobialMedia_Map01_5: 1942420377
+      MobialMedia_Map01_50: -1942654966
+      MobialMedia_Map01_51: 1376665207
+      MobialMedia_Map01_52: -911799330
+      MobialMedia_Map01_53: -669762187
+      MobialMedia_Map01_54: 495243593
+      MobialMedia_Map01_55: 1985310417
+      MobialMedia_Map01_56: -759422626
+      MobialMedia_Map01_57: -1112870322
+      MobialMedia_Map01_58: 892737651
+      MobialMedia_Map01_59: 1015516844
+      MobialMedia_Map01_6: 260545918
+      MobialMedia_Map01_60: 1457074820
+      MobialMedia_Map01_61: 1671815994
+      MobialMedia_Map01_62: 1493026145
+      MobialMedia_Map01_63: 2040886842
+      MobialMedia_Map01_64: 1597600997
+      MobialMedia_Map01_7: -745519545
+      MobialMedia_Map01_8: -569392227
+      MobialMedia_Map01_9: -459549861
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

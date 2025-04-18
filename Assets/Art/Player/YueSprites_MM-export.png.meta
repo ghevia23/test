@@ -1,0 +1,537 @@
+fileFormatVersion: 2
+guid: 741136fa205d1404b83bd9f59c42fa72
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4069405334715481029
+    second: YueSprites_MM-export_0
+  - first:
+      213: 1785886425971317585
+    second: YueSprites_MM-export_1
+  - first:
+      213: 5979131526695656245
+    second: YueSprites_MM-export_2
+  - first:
+      213: 6120188512686453079
+    second: YueSprites_MM-export_3
+  - first:
+      213: -2836830391362511966
+    second: YueSprites_MM-export_4
+  - first:
+      213: 1251420195891640116
+    second: YueSprites_MM-export_5
+  - first:
+      213: -4064334402898400119
+    second: YueSprites_MM-export_6
+  - first:
+      213: 4735528411989222761
+    second: YueSprites_MM-export_7
+  - first:
+      213: 8057614089153968318
+    second: YueSprites_MM-export_8
+  - first:
+      213: 3516212977653532952
+    second: YueSprites_MM-export_9
+  - first:
+      213: -8496284119361151578
+    second: YueSprites_MM-export_10
+  - first:
+      213: 9055770234091526016
+    second: YueSprites_MM-export_11
+  - first:
+      213: -4217330793283891626
+    second: YueSprites_MM-export_12
+  - first:
+      213: 1399486619346290201
+    second: YueSprites_MM-export_13
+  - first:
+      213: 2941860790129133006
+    second: YueSprites_MM-export_14
+  - first:
+      213: 5642948991507739842
+    second: YueSprites_MM-export_15
+  - first:
+      213: -2254429055548418211
+    second: YueSprites_MM-export_16
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: YueSprites_MM-export_0
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1510
+        width: 300
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b344431a8619687c0800000000000000
+      internalID: -4069405334715481029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YueSprites_MM-export_1
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1510
+        width: 300
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b563d0e3eb8c810800000000000000
+      internalID: 1785886425971317585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YueSprites_MM-export_2
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1510
+        width: 295
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b980ad1742af250800000000000000
+      internalID: 5979131526695656245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YueSprites_MM-export_3
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 1515
+        width: 300
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7513a11b6074fe450800000000000000
+      internalID: 6120188512686453079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YueSprites_MM-export_4
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1055
+        width: 305
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab1eca0acd81a8d0800000000000000
+      internalID: -2836830391362511966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YueSprites_MM-export_5
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1055
+        width: 305
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437fed0b900fd5110800000000000000
+      internalID: 1251420195891640116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YueSprites_MM-export_6
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1047
+        width: 305
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c67d2f4659897c0800000000000000
+      internalID: -4064334402898400119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YueSprites_MM-export_7
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1047
+        width: 305
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9652364300af7b140800000000000000
+      internalID: 4735528411989222761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YueSprites_MM-export_8
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 620
+        width: 305
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb87431b25562df60800000000000000
+      internalID: 8057614089153968318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YueSprites_MM-export_9
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 620
+        width: 305
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81948afc2191cc030800000000000000
+      internalID: 3516212977653532952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YueSprites_MM-export_10
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 624
+        width: 305
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad9fa2db92271a80800000000000000
+      internalID: -8496284119361151578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YueSprites_MM-export_11
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 624
+        width: 305
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087d4926c0f8cad70800000000000000
+      internalID: 9055770234091526016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YueSprites_MM-export_12
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 189
+        width: 300
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e4ff5ecf70975c0800000000000000
+      internalID: -4217330793283891626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YueSprites_MM-export_13
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 189
+        width: 294
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9164c0e5aa9fb6310800000000000000
+      internalID: 1399486619346290201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YueSprites_MM-export_14
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 194
+        width: 300
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec50c4e4dc693d820800000000000000
+      internalID: 2941860790129133006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YueSprites_MM-export_15
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 180
+        width: 300
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4b77cc538cf4e40800000000000000
+      internalID: 5642948991507739842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YueSprites_MM-export_16
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 176
+        width: 300
+        height: 348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5797bce7b8a6b0e0800000000000000
+      internalID: -2254429055548418211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 851e2ed792da44848bb506f058c20345
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      YueSprites_MM-export_0: -4069405334715481029
+      YueSprites_MM-export_1: 1785886425971317585
+      YueSprites_MM-export_10: -8496284119361151578
+      YueSprites_MM-export_11: 9055770234091526016
+      YueSprites_MM-export_12: -4217330793283891626
+      YueSprites_MM-export_13: 1399486619346290201
+      YueSprites_MM-export_14: 2941860790129133006
+      YueSprites_MM-export_15: 5642948991507739842
+      YueSprites_MM-export_16: -2254429055548418211
+      YueSprites_MM-export_2: 5979131526695656245
+      YueSprites_MM-export_3: 6120188512686453079
+      YueSprites_MM-export_4: -2836830391362511966
+      YueSprites_MM-export_5: 1251420195891640116
+      YueSprites_MM-export_6: -4064334402898400119
+      YueSprites_MM-export_7: 4735528411989222761
+      YueSprites_MM-export_8: 8057614089153968318
+      YueSprites_MM-export_9: 3516212977653532952
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
