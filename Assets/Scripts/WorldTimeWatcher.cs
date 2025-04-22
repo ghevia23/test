@@ -1,18 +1,46 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System;
+using UnityEngine.Events;
+using System.Linq;
 
-public class WorldTimeWatcher : MonoBehaviour
+namespace WorldTime
 {
-    // Start is called before the first frame update
-    void Start()
+    public class WorldTimeWatcher : MonoBehaviour
     {
-        
-    }
+        [SerializeField]
+        private WorldTime _worldTime;
 
-    // Update is called once per frame
-    void Update()
-    {
-        
+        [SerializeField]
+        private List<Schedule> _schedule;
+
+        private void Start()
+        {
+            _worldTime.WorldTimeChanged += CheckSchedule;
+        }
+
+        private void OnDestroy()
+        {
+            _worldTime.WorldTimeChanged -= CheckSchedule;
+        }
+        private void CheckSchedule(object sender, TimeSpan newTime)
+        {
+            var schedule =
+                _schedule.FirstOrDefault(s =>
+                s.Hour == newTime.Hours &&
+                s.Minute == newTime.Minutes);
+
+            schedule?._action?.Invoke();
+
+        }
+
+        [Serializable]
+        private class Schedule
+        {
+            public int Hour;
+            public int Minute;
+            public UnityEvent _action;
+        }
     }
 }
