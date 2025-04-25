@@ -296,7 +296,15 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MobialMedia_Map_Water_Buildings_Bridge_0: -3470654650823435926
+      MobialMedia_Map_Water_Buildings_Bridge_1: 2143731929831876400
+      MobialMedia_Map_Water_Buildings_Bridge_2: 1343848780829873159
+      MobialMedia_Map_Water_Buildings_Bridge_3: 6595543169878542132
+      MobialMedia_Map_Water_Buildings_Bridge_4: 5924443797860696028
+      MobialMedia_Map_Water_Buildings_Bridge_5: 7159565014033533557
+      MobialMedia_Map_Water_Buildings_Bridge_6: 380524317505247402
+      MobialMedia_Map_Water_Buildings_Bridge_7: -8818278171535138645
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
